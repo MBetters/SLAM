@@ -44,6 +44,7 @@ Go to the link it gives you and open the `main.ipynb` notebook. Click the `Run` 
   - src/logtools/logtools.h
   - src/param_daemon/param_messages.h
 - http://www.cs.cmu.edu/~carmen/other_programs.html
+- For the optimization portion: https://github.com/ethz-asl/ai_for_robotics/blob/master/3_0_pgo_icp/solution/pose_graph_optimization/assignment_I_2/pgo_2D.py
 
 ## Notes
 
